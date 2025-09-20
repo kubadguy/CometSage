@@ -1,33 +1,62 @@
-# If you prefer the allow list template instead of the deny list, see community template:
-# https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
-#
-# Binaries for programs and plugins
-*.exe
-*.exe~
-*.dll
-*.so
-*.dylib
+# Build artifacts
+# The '/dist' folder is specifically for the Qwik project build output.
+/dist
+/lib
+/lib-types
+/server
 
-# Test binary, built with `go test -c`
+# Dependency directories
+node_modules/
+
+# Development and cache files
+# This includes general development files and specific entries for Node.js environments.
+.cache/
+.env
+*.local
+.mf
+.rollup.cache
+tsconfig.tsbuildinfo
+
+# Logs
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor/IDE specific files
+# Keeping these project-specific helps all collaborators, while personal IDE files belong in a global gitignore.
+.idea/
+.vscode/
+# VS Code specific rules, ensuring certain settings files are still tracked.
+.vscode/*
+!.vscode/launch.json
+!.vscode/*.code-snippets
+
+# Operating system artifacts
+# This section consolidates the OS-specific junk files.
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Test artifacts
 *.test
-
-# Code coverage profiles and other test artifacts
 *.out
 coverage.*
 *.coverprofile
 profile.cov
 
-# Dependency directories (remove the comment below to include it)
-# vendor/
-
-# Go workspace file
+# Go-related files (if you're using Go in the project)
 go.work
 go.work.sum
 
-# env file
-.env
-
-# Editor/IDE
-.idea/
-.vscode/
-
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
