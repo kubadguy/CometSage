@@ -1,0 +1,79 @@
+CometSage License (BSL-Style)
+
+Copyright (c) 2025 CometSage Inc.
+
+All rights reserved.
+
+This software (the “Software”) is licensed, not sold, under the terms below.
+
+1. Grant of Use
+
+You are granted a non-exclusive, non-transferable, worldwide license to:
+
+Use the Software internally for development, testing, and production.
+
+Modify the Software for your own internal projects.
+
+Integrate the Software into your internal systems or SaaS offerings you operate yourself.
+
+This license does not allow you to redistribute, sell, sublicense, or publicly share the Software in whole or in part, in source code or binary form, under any other name or brand.
+
+2. Restrictions
+
+You may not:
+
+Copy, distribute, sell, or sublicense the Software to any third party.
+
+Rebrand or claim the Software as your own.
+
+Remove or alter copyright, trademark, or license notices.
+
+Use the Software to create competing products or services intended for resale.
+
+Circumvent or bypass any limitations imposed by the license.
+
+3. Source Code Modifications
+
+You may modify the Software for internal purposes only.
+
+Any modifications are for your internal use and may not be published or redistributed.
+
+If you wish to contribute back to CometSage, you may submit pull requests for consideration.
+
+4. SaaS and Hosting
+
+You may host the Software as part of your internal SaaS offering only if you retain CometSage branding.
+
+You may not offer the Software to external users as a standalone product.
+
+5. Intellectual Property
+
+All rights, title, and interest in the Software, including trademarks, patents, and copyrights, remain the property of CometSage Inc.
+
+No rights are granted other than those explicitly stated in this license.
+
+6. Disclaimer of Warranty
+
+The Software is provided “as is,” without warranty of any kind.
+
+CometSage Inc. is not responsible for any damages arising from the use of the Software.
+
+You assume all responsibility for testing and deploying the Software safely.
+
+7. Limitation of Liability
+
+In no event shall CometSage Inc., its employees, or affiliates be liable for any indirect, incidental, special, or consequential damages arising from the use or inability to use the Software.
+
+8. Termination
+
+This license is effective until terminated.
+
+Your rights under this license terminate automatically if you violate any of the terms.
+
+Upon termination, you must delete all copies of the Software from your systems.
+
+9. Governing Law
+
+This License shall be governed by the laws of [Your Country/State], without regard to conflict-of-law principles.
+
+Any disputes shall be resolved exclusively in the courts of [Your Country/State].
